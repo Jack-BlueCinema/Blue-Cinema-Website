@@ -1,6 +1,7 @@
 html {
   background: rgb(0, 17, 255);
 }
+
 body {
   background: rgb(0, 17, 255);
   color: rgb(255, 255, 255);
@@ -9,10 +10,13 @@ body {
   font-size: 18px;
   line-height: 1.6;
 }
+
 img {
   display: block;
   margin: 20px auto;
+
 }
+
 .content {
   max-width: 900px;
   margin: 0 auto;
